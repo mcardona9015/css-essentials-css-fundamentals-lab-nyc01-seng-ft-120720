@@ -19,9 +19,10 @@ section#featured-property p{
 }
 section#details {
   display: block;
+  float: left;
 }
 section#details div {
-
+  
   padding:70px;
   background: rgb(255, 0, 0);
 }
