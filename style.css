@@ -3,3 +3,23 @@ body {
   height: 100%;
   margin: 0;
 }
+* {
+  text-align: center;
+}
+header a {
+  padding: 10px;
+  background: rgb(200,200, 200);
+}
+section#featured-property figcaption {
+  font-size: 14px;
+}
+section#featured-property p{
+  width: 800px;
+  margin: auto;
+}
+section#details div {
+  display: block;
+  float: left;
+  background: rgb(255, 0, 0);
+  width: 25%;
+}
