@@ -13,7 +13,7 @@ a {
 section#featured-property figcaption {
   font-size: 14px;
 }
-p#featured-property {
+section#featured-property p{
   width: 800px;
   text-align: center;
 }
