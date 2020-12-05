@@ -15,7 +15,7 @@ section#featured-property figcaption {
 }
 section#featured-property p{
   width: 800px;
-  margin: auto;
+  margin: center;
 }
 section#details div {
   display: block;
