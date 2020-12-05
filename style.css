@@ -23,7 +23,6 @@ section#details {
 section#details div {
   display: block;
   float: left;
-  padding:10px;
   background: rgb(255, 0, 0);
   width: 25%
 
