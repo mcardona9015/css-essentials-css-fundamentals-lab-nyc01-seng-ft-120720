@@ -25,5 +25,5 @@ section#details div {
   float: left;
   padding:70px;
   background: rgb(255, 0, 0);
-  margin: auto;
+  text-align: center;
 }
