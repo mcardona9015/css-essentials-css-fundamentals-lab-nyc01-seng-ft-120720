@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 * {
-  text-align: center;
+
 }
 header a {
   padding: 10px;
@@ -25,5 +25,5 @@ section#details div {
   float: left;
   padding:70px;
   background: rgb(255, 0, 0);
-  text-align: center;
+  
 }
