@@ -17,13 +17,9 @@ section#featured-property p{
   width: 800px;
   margin: auto;
 }
-section#details {
-
-}
 section#details div {
   display: block;
   float: left;
   background: rgb(255, 0, 0);
   width: 25%
-
 }
