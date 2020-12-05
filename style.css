@@ -10,6 +10,6 @@ a {
   padding: 10px;
   background: rgb(200,200, 200);
 }
-figcaption {
+section#featured-property figcaption {
   font-size: 10;
 }
