@@ -17,6 +17,6 @@ section#featured-property p{
   width: 800px;
   margin: auto;
 }
-section#details div{
+section#details {
   display: block;
 }
