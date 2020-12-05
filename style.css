@@ -21,7 +21,7 @@ section#details {
   display: block;
 }
 section#details div {
-  float: left;
+
   padding:70px;
   background: rgb(255, 0, 0);
 }
